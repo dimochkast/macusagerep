@@ -6,3 +6,7 @@ DerivedData/
 .DS_Store
 *.pem
 *.key
+
+# Python bytecode caches
+__pycache__/
+*.pyc
